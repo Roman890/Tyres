@@ -1,3 +1,1 @@
-#NewTyre
-#TYREnew
-#NewTyre
+TYREnew
